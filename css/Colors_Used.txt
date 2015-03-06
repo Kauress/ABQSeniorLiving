@@ -1,0 +1,15 @@
+Senior Living CSS adjustments
+#008e47 is Green Original template color
+#05a141 is the Original green text
+#0c7449 an original shade of green in the css
+#006436 original shadow of green used in the nav head
+#008f58 original Green bottom border on the nav bar
+
+#27A2B2 is Teal as in the Beginnings sign
+#1F99FC is blue as in the logo
+#FC901E Orange as in the logo
+#BE206F Pinkish-red as in the logo
+#3E3E3E Dark Gray as in the logo
+#10aec1 Teal Color used in Photoshop for banner (slightly brighter than text)
+#bebebe Light gray as used in bottom logo
+#109fc1 Darker Teal of nav border-bottom: 1px solid ;
